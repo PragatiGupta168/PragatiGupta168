@@ -1,23 +1,16 @@
-<h1 align="center">Hi 👋, I'm Pragati Gupta</h1>
+<h1 align="center">
+  <span>Hi 👋, I'm Pragati Gupta!</span>
+</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F79327&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Learner;AI+%26+ML+Explorer;Always+Learning+Always+Building!" />
-</div>
-
----
-
-<div align="center">
-  <img align="center" alt="coding" width="400" src="https://tse3.mm.bing.net/th?id=OIP.5ybHSsCB7tUP7uFDPRLJmAHaFj&pid=Api&P=0&h=180" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F79327&center=true&vCenter=true&width=600&lines=Hi%2C+I+am+Pragati+Gupta+👋;Aspiring+Full+Stack+Developer;+%7C+MERN+Technology+Learner;Always+Learning%2C+Always+Building!" />
 </div>
 
 ---
 
 ## 🚀 About Me  
-
-💡 Passionate about building **interactive web apps** and exploring **AI-powered solutions**.  
-🌱 Currently learning **MERN Stack & Java DSA**.  
-💬 Ask me about **Java, Frontend Development, AI-based Projects, or Web Apps**.  
-🎯 Goal: To become a **skilled full stack developer** capable of creating impactful solutions.  
+✨ Passionate about crafting **scalable and creative web applications**.  
+🔥 Currently learning **MERN Stack** (MongoDB, Express.js, React, Node.js).  
 ⚡ Fun fact: **I can debug code faster than I can decide what to eat 😄**  
 
 ---
@@ -28,11 +21,11 @@
 
 ### 🎨 Frontend  
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,redux" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&width=500&lines=Building+UI+with+React;Styling+with+Tailwind+%26+Bootstrap;Modern+JavaScript+(ES6%2B);Frontend+Animation+%26+Design" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&width=600&lines=Building+UI+with+React;Styling+with+Tailwind+and+Bootstrap;Modern+JavaScript+(ES6%2B);Responsive+Frontend+Designs" alt="Typing SVG" />
 </div>
 
 ---
@@ -60,22 +53,14 @@
 
 ### 🔥 Bonus Skills  
 - 💬 Clear communication & teamwork  
-- ⚡ Adaptable & creative mindset  
-- 🧠 Quick learner and consistent performer  
+- 🧠 Quick learner & adaptable  
+- 🚀 Strong debugging skills  
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Always+Learning.+Always+Building.;Let's+build+something+amazing." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Always+Learning.+Always+Building.;Let's+create+something+amazing." alt="Typing SVG" />
 </div>
-
----
-
-## 🌟 What I'm Exploring Right Now  
-🚀 **Advanced React** — hooks, context, and performance optimization  
-⚙️ **Backend Development** — REST APIs, routing, authentication  
-🧠 **AI/ML Concepts** — integrating intelligence into web apps  
-💻 **Java DSA** — improving problem-solving skills  
 
 ---
 
@@ -83,58 +68,43 @@
 
 <div align="center">
 
-  <img src="https://streak-stats.demolab.com/?user=PragatiGupta168&theme=tokyonight&hide_border=false&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" 
+  <img src="https://streak-stats.demolab.com/?user=pragatigupta168&theme=tokyonight&hide_border=false&border_radius=10" 
        alt="GitHub Streak" 
        width="500" />
   
   <br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=PragatiGupta168&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&border_radius=10" 
+  <img src="https://github-readme-stats.vercel.app/api?username=pragatigupta168&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&border_radius=10" 
        alt="GitHub Stats" 
        width="500" />
 
-  <br><br>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PragatiGupta168&show_icons=true&locale=en&layout=compact&theme=tokyonight" 
-       alt="Top Languages" 
-       width="500" />
 </div>
 
 ---
 
-## 📬 Let's Connect
+## 📬 Let's Connect  
 
 <div align="center">
 
   <a href="mailto:pragatigupta168@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
-  </a>
-  
-  &nbsp;&nbsp;
+  </a>&nbsp;&nbsp;
 
   <a href="https://www.linkedin.com/in/pragatigupta168/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-  </a>
-  
-  &nbsp;&nbsp;
+  </a>&nbsp;&nbsp;
 
-  <a href="https://github.com/PragatiGupta168" target="_blank">
+  <a href="https://github.com/pragatigupta168" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
-  </a>
-
-  &nbsp;&nbsp;
-
-  <a href="https://leetcode.com/u/lYRYeXLOtA/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge" />
-  </a>
-
-  &nbsp;&nbsp;
+  </a>&nbsp;&nbsp;
 
   <a href="https://www.instagram.com/itz_pragati2701/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
-  </a>
+  </a>&nbsp;&nbsp;
 
-  &nbsp;&nbsp;
+  <a href="https://x.com/PragatiG83185" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" />
+  </a>&nbsp;&nbsp;
 
   <a href="https://www.youtube.com/@pragatigupta8519" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge" />
@@ -142,9 +112,16 @@
 
   <br><br>
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Let's+Connect+and+Build+Something+Extraordinary!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Let's+build+something+extraordinary+together!" alt="Typing SVG" />
+
 </div>
 
 ---
 
-✨ **If you liked my work, drop a ⭐ on my repositories!**
+
+---
+
+
+---
+
+✨ **Like my work? Drop a star ⭐ on my repositories!**  
