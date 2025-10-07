@@ -1,9 +1,7 @@
-<h1 align="center">
-  <span>Hey there, I'm Pragati Gupta! 👋</span>
-</h1>
+<h1 align="center">Hi 👋, I'm Pragati Gupta</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F79327&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Pragati+Gupta+👋;Passionate+Full+Stack+Developer;MERN+Stack+Learner;AI+%26+ML+Explorer;Always+Learning+Always+Building!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F79327&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Learner;AI+%26+ML+Explorer;Always+Learning+Always+Building!" />
 </div>
 
 ---
@@ -64,14 +62,6 @@
 - 💬 Clear communication & teamwork  
 - ⚡ Adaptable & creative mindset  
 - 🧠 Quick learner and consistent performer  
-
----
-
-## 💻 Featured Projects  
-
-- 🎶 [**Rhythm Zone**](https://github.com/PragatiGupta168/Rhythm-Zone) — Emotion-based Music Player using AI & Spotify API.  
-- 🎓 [**Virtual Classroom**](https://github.com/PragatiGupta168/Virtual-Classroom) — React-based Classroom Dashboard for Students & Teachers.  
-- ⚙️ [**Smart Timetable Generator**](https://github.com/PragatiGupta168/Smart-Timetable) — AI-powered Timetable Automation System.
 
 ---
 
@@ -158,4 +148,3 @@
 ---
 
 ✨ **If you liked my work, drop a ⭐ on my repositories!**
-
